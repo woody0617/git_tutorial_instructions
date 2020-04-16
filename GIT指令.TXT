@@ -1,0 +1,12 @@
+git init 初始化資料夾
+git status 查看狀態
+git add . 檔案追蹤
+git commit -m "something" 新增版本紀錄
+git branch 分支
+git log 查看版本紀錄
+git remote -v 查看關聯的遠端空間
+git remote add origin(anything) 專案的網址
+git push origin master(分支)
+---------------------------------------------
+git clone 遠端空間的網址 本機資料夾 下載專案
+git pull 遠端空間名稱 遠端空間的分支 更新專案
